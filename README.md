@@ -1,4 +1,4 @@
 # PYTHON
-Projetos em Python.
+LÓGICA EM PYTHON.
 
-Aqui irei salvar todos os meus trabalhos realizados na linguagem PYTHON.
+Esse repositório irá salvar todos os meus exercicios aprendendo lógica de programação em Python.
